@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_hw3_form</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">姓名: </string>
+    <string name="blood">血型:</string>
+    <string name="degree">學歷:</string>
+
+</resources>
